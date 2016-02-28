@@ -1,0 +1,24 @@
+_repo: The-Tragic-Comedians-A-Study-in-a-Well-known-Story-Volume-2_4462
+creator:
+  author:
+    agent_name: Meredith, George
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '520'
+    url: http://www.gutenberg.org/2009/agents/520
+    wikipedia: http://en.wikipedia.org/wiki/George_Meredith
+description: ''
+gutenberg_issued: '2003-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lassalle, Ferdinand, 1825-1864 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+title: 'The Tragic Comedians: A Study in a Well-known Story — Volume 2'
+url: http://www.gutenberg.org/ebooks/4462
